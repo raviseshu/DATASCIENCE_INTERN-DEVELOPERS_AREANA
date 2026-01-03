@@ -1,0 +1,11 @@
+Customer_ID,Product,Quantity,Unit_Price,Total_Sales
+1001,Laptop,1,999.99,999.99
+1002,Mouse,5,25.5,127.5
+1001,Keyboard,2,89.99,179.98
+1003,Laptop,1,999.99,999.99
+1002,Mouse,3,25.5,76.5
+1004,Monitor,1,299.99,299.99
+1001,Laptop,2,999.99,1999.98
+1003,Keyboard,1,89.99,89.99
+1002,Monitor,1,299.99,299.99
+1004,Mouse,4,25.5,102.0
