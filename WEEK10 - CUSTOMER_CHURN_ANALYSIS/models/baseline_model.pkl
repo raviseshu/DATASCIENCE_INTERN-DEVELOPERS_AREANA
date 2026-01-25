@@ -1,0 +1,2 @@
+# Binary placeholder file (created by touch)
+# Real model would contain: pickle.dump(baseline_model, open('baseline_model.pkl', 'wb'))
